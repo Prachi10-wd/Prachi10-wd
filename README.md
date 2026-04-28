@@ -118,17 +118,6 @@ prachi = {
 
 ---
 
-## 📌 Currently Working On
-
-```
-📦 Menstrual Cycle Data Analysis ........... NumPy    ██████████ Done
-📦 Transitioning to Pandas ................. Pandas   ████░░░░░░ In Progress
-📦 Power BI Dashboard Projects ............. Power BI ███░░░░░░░ In Progress
-📦 Portfolio Website ....................... HTML/CSS ██░░░░░░░░ Planned
-```
-
----
-
 ## 🚀 2025 Goals
 
 - [ ] 💼 Land a **remote internship** in AI / Data Analytics
