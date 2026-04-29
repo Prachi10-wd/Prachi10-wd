@@ -84,17 +84,25 @@ prachi = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prachi10-wd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi10-wd&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=6" height="165"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Prachi10-wd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=60" height="165"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi10-wd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=60" height="165"/>
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Prachi10-wd&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+
+  <img src="https://streak-stats.demolab.com/?user=Prachi10-wd&theme=tokyonight&hide_border=true&cache_seconds=60" height="165"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachi10-wd&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachi10-wd&theme=tokyo-night&hide_border=true&area=true&cache_seconds=60" width="95%"/>
+
 </div>
+
 
 ---
 
