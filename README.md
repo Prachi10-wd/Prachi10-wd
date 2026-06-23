@@ -32,7 +32,7 @@
 ```python
 prachi = {
     "degree"     : "BCA — Chitkara University",
-    "year"       : "2nd Year (Semester 4)",
+    "year"       : "3rd Year (Semester 5)",
     "cgpa"       : "9.75 / 10 (up to Sem 3)",
     "focus"      : ["Data Analytics", "AI & ML", "Python", "Web Dev"],
     "currently"  : "Learning Pandas after mastering NumPy",
